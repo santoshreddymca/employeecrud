@@ -1,6 +1,8 @@
 # employeecrud
-We have completed the following requirements:
 
+I have created the simgle pom.xml and created like a single project with below requirement :
+
+I have completed the following requirements:
 - `employee.json` has only `name`, and `id` elements. Please add `date of birth` and `address` elements to the `Employee` resource. Address will have `line1`, optional `line2`, `city`, `state`, `country` and `zip_code` elements.
 - Add one more operation in `EmpoyeeResource` to create an employee. So `EmpoyeeResource` will have two operations, one to create, and another to retrieve the employee resource.
 - Implement create, and retrieve operations in `EmployeeResourceImpl.java`.
